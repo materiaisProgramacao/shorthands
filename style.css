@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    margin: auto;
+    width: 70%;
+    background-color: #ccc;
+}
+
+img {
+    width: 10rem;
+    border-style: solid;
+    border-width: 1rem;
+    padding: 1rem 3rem;
+    border-radius: 0% 40%;
+}
+
+.esquerda {
+    float: left;
+    margin-right: 2rem;
+}
+
+.direita {
+    float: right;
+    margin-left: 2rem;
+}
+
+h1 {
+    margin: 10rem 1rem; 
+    background: #000 url(imagem1.png) no-repeat;
+    color:rgb(218, 11, 11);
+    padding: 5rem;
+}
